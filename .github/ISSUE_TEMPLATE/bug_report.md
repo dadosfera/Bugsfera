@@ -9,7 +9,7 @@ assignees: ''
 
 ## Mandatory informations:
 
-##### There are customers are directly impacted by this bug? Which?
+##### Are there any customers directly impacted by this bug? Which ones?
 -------------------------------------------
 
 #### Bug Category
@@ -35,7 +35,7 @@ Steps to reproduce the behavior:
 ##### Screenshots
 -------------------------------------------
 
-##### This bug impact any demo or a sales?
+##### Does this bug impact any demo or a sale?
 -------------------------------------------
 
 #### Dadosfera Customer:
